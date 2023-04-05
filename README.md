@@ -7,7 +7,7 @@ This repository contains the solutions for the given tasks in these links:
 - [Task-3](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/blob/master/Task%203%20Open%20Task.ipynb)
 - [Task-8](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/blob/master/Task_8_QMLHEP.ipynb)
 
-Note: The idea for the Quantum Vision Transformer exists at the bottom of the same .ipynb notebook [here](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/blob/master/Task_8_ViT_MNIST-final.ipynb)
+Note: The idea for the Quantum Vision Transformer exists at the bottom of the same .ipynb notebook [here](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/blob/master/Task_8_QMLHEP.ipynb)
 
 Additional files are helper files for the task-2 as they contain the models being implemented there.
 
