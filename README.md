@@ -14,8 +14,6 @@ The files named [tf_keras_model](https://github.com/Rohan29032001/QMLHEP2023-tas
 The directory [ViT60](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/tree/master/ViT_60) contains the saved weights for the Vision Transformer trained for 64 epochs (implemented in Task 8).
 
 
-As it is evident from the tasks completed, I am interested to contribute to the Quantum Vision Transformer project.
-
 ### Results obtained:
 The metrics used here are calculated on the test set. 
 
@@ -35,6 +33,4 @@ The metrics used here are calculated on the test set.
     - **Loss**: 0.07690183073282242
     - **Accuracy**:  0.9825999736785889
     
-    
 
--
