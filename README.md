@@ -15,3 +15,26 @@ The directory [ViT60](https://github.com/Rohan29032001/QMLHEP2023-tasks_rohan/tr
 
 
 As it is evident from the tasks completed, I am interested to contribute to the Quantum Vision Transformer project.
+
+### Results obtained:
+The metrics used here are calculated on the test set. 
+
+- Task 2, ParticleNetliteL1:
+    - Dataset: Quark and Gluon jets
+    - **Loss**: 0.4428800344467163
+    - **Accuracy**:0.8027333617210388
+    
+    
+- Task 2, ParticleNetlite:
+    - Dataset: Quark and Gluon jets
+    - **Loss**: 0.42622110247612
+    - **Accuracy**: 0.8133999705314636
+
+- Task 8, Vision Transformer:
+    - Dataset: MNIST
+    - **Loss**: 0.07690183073282242
+    - **Accuracy**:  0.9825999736785889
+    
+    
+
+-
